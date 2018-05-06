@@ -587,3 +587,4 @@ var Add2Calendar = function(eventData) {
 
   this.init(eventData);
 };
+module.exports = Add2Calendar;
